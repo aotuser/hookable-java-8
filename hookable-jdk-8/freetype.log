@@ -1,0 +1,18 @@
+Microsoft(R) Build Engine versão 16.11.6+a918ceb31 para .NET Framework 
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+Compilação de 21/10/2025 22:22:04 iniciada.
+Projeto "C:\freetype-2.10.3\builds\windows\vc2010\freetype.vcxproj" no nó 1 (destinos padrão).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(436,5): error MSB8013: este projeto não contém a combinação de Configuração e Plataforma Release Multithreaded|x64. [C:\freetype-2.10.3\builds\windows\vc2010\freetype.vcxproj]
+Projeto de compilação pronto "C:\freetype-2.10.3\builds\windows\vc2010\freetype.vcxproj" (destinos padrão) -- FALHA.
+
+FALHA da compilação.
+
+"C:\freetype-2.10.3\builds\windows\vc2010\freetype.vcxproj" (destino padrão) (1) ->
+(PrepareForBuild destino) -> 
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(436,5): error MSB8013: este projeto não contém a combinação de Configuração e Plataforma Release Multithreaded|x64. [C:\freetype-2.10.3\builds\windows\vc2010\freetype.vcxproj]
+
+    0 Aviso(s)
+    1 Erro(s)
+
+Tempo Decorrido 00:00:00.98
